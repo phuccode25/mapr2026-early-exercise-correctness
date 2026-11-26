@@ -1,0 +1,7 @@
+exercise_name,best_mean_correctness_macro_f1,best_prefix,earliest_prefix_tau_0.80,state_tau_0.80_gamma_0.60
+knee_lunge,0.42919322901574425,1.0,,Uncertain
+side_arm_raise,0.9233184410301115,0.75,0.5,Early-ready
+side_leg_raise,0.41990776108423167,1.0,,Uncertain
+squat,0.8121024250056509,0.75,0.75,Delayed-ready
+table_push_up,0.7830215749013703,0.75,,Monitor
+v_to_w_arms,0.9192207792207792,0.75,0.5,Early-ready

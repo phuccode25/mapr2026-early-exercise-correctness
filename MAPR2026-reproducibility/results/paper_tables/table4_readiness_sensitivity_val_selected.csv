@@ -1,0 +1,5 @@
+tau,Early-ready,Delayed-ready,Monitor,Uncertain,exercise_states
+0.75,3,1,0,2,knee_lunge: Uncertain; side_arm_raise: Early-ready; side_leg_raise: Uncertain; squat: Early-ready; table_push_up: Delayed-ready; v_to_w_arms: Early-ready
+0.8,2,1,1,2,knee_lunge: Uncertain; side_arm_raise: Early-ready; side_leg_raise: Uncertain; squat: Delayed-ready; table_push_up: Monitor; v_to_w_arms: Early-ready
+0.85,1,1,2,2,knee_lunge: Uncertain; side_arm_raise: Early-ready; side_leg_raise: Uncertain; squat: Monitor; table_push_up: Monitor; v_to_w_arms: Delayed-ready
+0.9,0,2,2,2,knee_lunge: Uncertain; side_arm_raise: Delayed-ready; side_leg_raise: Uncertain; squat: Monitor; table_push_up: Monitor; v_to_w_arms: Delayed-ready
